@@ -1,0 +1,18 @@
+.abc{
+    
+   
+    transition: all 10s; 
+    position: relative;
+   
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+
+  }
+  .flex-containercol{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+  }
